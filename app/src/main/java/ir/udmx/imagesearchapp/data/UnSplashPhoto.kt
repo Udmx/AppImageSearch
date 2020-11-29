@@ -1,4 +1,4 @@
-package ir.udmx.imagesearchapp
+package ir.udmx.imagesearchapp.data
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

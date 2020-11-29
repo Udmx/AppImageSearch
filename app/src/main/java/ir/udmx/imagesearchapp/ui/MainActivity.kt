@@ -1,9 +1,11 @@
-package ir.udmx.imagesearchapp
+package ir.udmx.imagesearchapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.udmx.imagesearchapp.R
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
