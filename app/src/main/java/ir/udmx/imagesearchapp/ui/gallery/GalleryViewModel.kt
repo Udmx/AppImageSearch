@@ -21,6 +21,6 @@ class GalleryViewModel @ViewModelInject constructor(private val repository: UnSp
     }
 
     companion object{
-        private const val DEFAULT_QUERY = "dogs"
+        private const val DEFAULT_QUERY = "iran"
     }
 }
